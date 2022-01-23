@@ -1,9 +1,9 @@
 ## Installation
 
-Fork and clone the repo
-Cd into the project and run npm install
-Run the json-server with: npm run server
-Run the React server with: npm start
+1. Fork and clone the repo
+2. Cd into the project and run npm install
+3. Run the json-server with: npm run server
+4. Run the React server with: npm start
 
 # Getting Started with Create React App
 
@@ -75,6 +75,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Contributing
+
+Pull request are welcome. For major changes, please open an issue first to discuss what you would like to change. 
+
 ## License
 [MIT]
-(https://choosealicense.com/licenses/mit/)
+
