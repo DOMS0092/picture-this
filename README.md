@@ -1,3 +1,6 @@
+# Top Video Games 2021
+I'm extremely excited as this is my first React creation of 2022. The aim of this project is to provide fun interactive details on some popular games of 2021. What movitated me to build this application was my love and interest for exciting new games. After viewing my project I hope this excited you to maybe want to play one or two of these games. Thanks for viewing!
+
 ## Installation
 
 1. Fork and clone the repo
