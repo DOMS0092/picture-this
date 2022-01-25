@@ -1,0 +1,39 @@
+.games-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+  
+  
+    
+
+}
+
+.game-card{
+    border-style: solid;
+    border-inline: 10px;
+    width: 300px;
+    margin: auto;
+    align-content: center;
+    padding-inline: 10px;
+    border-right-style: solid;
+    border-left-style: solid;
+    
+    
+}
+.game-card img{
+    width: 250px;
+    height: 150px;
+    margin: 30px;
+    
+   
+}
+
+.about img{
+     width: 880px;
+     aspect-ratio: auto 880 / 495;
+}
+
+.about {
+    font-style: bold;
+}
+
