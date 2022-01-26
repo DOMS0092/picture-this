@@ -9,40 +9,34 @@
       "image": "https://cdn2.unrealengine.com/14br-consoles-1920x1080-wlogo-1920x1080-432974386.jpg",
       "comments": [
         {
-          "text": "Love this game!",
-          "rating": "★ ★ ★ ★ ",
+          "text": "great game",
+          "rating": 1,
           "id": 0
         },
         {
-          "text": "Great game, play it all the time!",
-          "rating": "★ ★ ★ ★",
+          "text": "",
+          "rating": 1,
           "id": 1
         },
         {
-          "text": "Addicted",
-          "rating": " ★ ★ ★ ☆",
+          "text": "great",
+          "rating": 4,
           "id": 2
         },
         {
-          "text": "Lets go!",
-          "rating": "4",
+          "text": "",
+          "rating": 3,
           "id": 3
         },
         {
-          "text": "great great game",
-          "rating": "5"
+          "text": "great game",
+          "rating": 5,
+          "id": 4
         },
         {
-          "text": "great game great",
-          "rating": "5"
-        },
-        {
-          "text": "great",
-          "rating": "3"
-        },
-        {
-          "text": "great great game",
-          "rating": "4"
+          "text": "great game",
+          "rating": 4,
+          "id": 5
         }
       ]
     },
@@ -53,28 +47,7 @@
       "description": "CrossFire is an online tactical first-person shooter game developed by Smilegate Entertainment for Microsoft Windows. It was first released in South Korea on May 3, 2007 ",
       "popularity": "8 million",
       "image": "https://www.gamesxtreme.com/uploads/large/75/74/7574/crossfirex_jpg.jpg",
-      "comments": [
-        {},
-        {
-          "text": "KILL",
-          "rating": "★ ★ ★ ★",
-          "id": 0
-        },
-        {
-          "text": "Yes!",
-          "rating": "★ ★ ★ ★",
-          "id": 1
-        },
-        {
-          "text": "kill switch!",
-          "rating": "★ ★ ★ ★",
-          "id": 2
-        },
-        {
-          "text": "great",
-          "rating": "3"
-        }
-      ]
+      "comments": []
     },
     {
       "id": 2,
@@ -83,32 +56,7 @@
       "description": "Catch, train, and battle with your Pokémon on a journey to try to become the Pokémon League Champion!",
       "popularity": "6 million",
       "image": "https://img-eshop.cdn.nintendo.net/i/c180fb106813466c38e58f7af65435f1acae5b7a5215bafd464ad921007bd83b.jpg",
-      "comments": [
-        {
-          "id": 0,
-          "text": "Great game",
-          "rating": "★ ★ ★ ★"
-        },
-        {
-          "id": 1,
-          "text": "Not Pokemon's best game. Boring!",
-          "rating": "★ ★ ☆ ☆"
-        },
-        {
-          "id": 2,
-          "text": "let play!",
-          "rating": "★ ★ ★ ★"
-        },
-        {
-          "text": "Highly recommend!",
-          "rating": "★ ★ ★ ★",
-          "id": 3
-        },
-        {
-          "text": "great",
-          "rating": "0"
-        }
-      ]
+      "comments": []
     },
     {
       "id": 3,
@@ -117,42 +65,7 @@
       "description": "Released in 2006, Roblox is an online game platform and game creation system developed by Roblox Corporation. It allows users to program games and play games created by other users.",
       "popularity": "4 million",
       "image": "https://variety.com/wp-content/uploads/2021/06/Roblox-sued-by-NMPA.png",
-      "comments": [
-        {},
-        {
-          "text": "Not just for kids LOVE THIS GAME!",
-          "rating": "★ ★ ★ ☆",
-          "id": 0
-        },
-        {
-          "text": "in-app purchases will take all your money!",
-          "rating": "★ ★ ☆ ☆",
-          "id": 1
-        },
-        {
-          "text": "where did all my money go! addictive! expensive and money spends so fast",
-          "rating": "★ ★ ☆ ☆",
-          "id": 2
-        },
-        {
-          "text": "LETS GOOOO",
-          "rating": "★ ★ ★ ★",
-          "id": 3
-        },
-        {
-          "text": "Don't recommend!",
-          "rating": "★ ☆ ☆ ☆",
-          "id": 4
-        },
-        {
-          "text": "roblox is a good good good grate game",
-          "rating": "5"
-        },
-        {
-          "text": "In my opinion I think roblox is a GREAT game for kids and adults to play  ",
-          "rating": "5"
-        }
-      ]
+      "comments": []
     },
     {
       "id": 4,
@@ -161,28 +74,7 @@
       "description": "Minecraft is a 3-D computer game where players can build anything. The game which has been described as like an ‘online Lego’ involves building blocks and creating structures across different environments and terrains. Set in a virtual world the game involves resource gathering, crafting items, building, and combat.",
       "popularity": "1.4 million",
       "image": "https://media.makeameme.org/created/minecr.jpg",
-      "comments": [
-        {
-          "text": "Great building game for kids!",
-          "rating": "★ ★ ★ ★",
-          "id": 0
-        },
-        {
-          "text": "I love to build. the cows are really cool in this game.",
-          "rating": "★ ★ ★ ★",
-          "id": 1
-        },
-        {
-          "text": "Great.",
-          "rating": "★ ★ ★ ★",
-          "id": 2
-        },
-        {
-          "text": "I'm so confused?",
-          "rating": "★ ☆ ☆ ☆ ",
-          "id": 3
-        }
-      ]
+      "comments": []
     },
     {
       "id": 5,
@@ -191,29 +83,7 @@
       "description": "Counter-Strike is a series of multiplayer first-person shooter video games in which teams of terrorists battle to perpetrate an act of terror while counter-terrorists try to prevent it. The series began on Windows in 1999 with the release of the first game, Counter-Strike.",
       "popularity": "1.2 million",
       "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/4ad78dbd8b1a553988d4cd9c605247ebef6382fa_400x225.png",
-      "comments": [
-        {},
-        {
-          "id": 0,
-          "text": "Never played this before. Sounds very interesting",
-          "rating": "4"
-        },
-        {
-          "id": 1,
-          "text": "Check it out!",
-          "rating": "3"
-        },
-        {
-          "id": 2,
-          "text": "SNIPPER",
-          "rating": "4"
-        },
-        {
-          "id": 3,
-          "text": "Cool game!",
-          "rating": "4"
-        }
-      ]
+      "comments": []
     },
     {
       "id": 6,
@@ -222,15 +92,7 @@
       "description": "New World is a massively multiplayer online role-playing game developed by Amazon Games Orange County and published by Amazon Games released on September 28, 2021",
       "popularity": "913,634",
       "image": "https://images.ctfassets.net/j95d1p8hsuun/29peK2k7Ic6FsPAVjHWs8W/06d3add40b23b20bbff215f6979267e8/NW_OPENGRAPH_1200x630.jpg",
-      "comments": [
-        {},
-        {
-          "text": "Two thumbs down!",
-          "rating": "2",
-          "id": 0
-        },
-        null
-      ]
+      "comments": []
     },
     {
       "id": 7,
@@ -239,18 +101,7 @@
       "description": "Dota 2 is a free-to-play multiplayer online battle arena (MOBA) where two teams of five players battle for control of their enemy’s base while trying to defend their own. Each playable character comes with a range of unique skills, which allows for strategic team composition and unexpected plays. There’s a high skill ceiling and a massive learning curve for anyone who hopes to get good.",
       "popularity": "648,875",
       "image": "https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg?t=1639608963",
-      "comments": [
-        {},
-        {
-          "id": 0,
-          "text": "DOTA!",
-          "rating": "5"
-        },
-        {
-          "text": "great game",
-          "rating": "4"
-        }
-      ]
+      "comments": []
     },
     {
       "id": 8,
@@ -259,29 +110,7 @@
       "description": "PUBG is a player versus player shooter game in which up to one hundred players fight in a battle royale, a type of large-scale last man standing deathmatch.",
       "popularity": "458,778",
       "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/PUBG_New_State_promotional_cover.jpg",
-      "comments": [
-        {},
-        {
-          "text": "Great game and its free!",
-          "rating": "3"
-        },
-        {
-          "text": "great!",
-          "rating": "4"
-        },
-        {
-          "text": "Awesome!",
-          "rating": "5"
-        },
-        {
-          "text": "Cool game, able to play with lots of users",
-          "rating": "4"
-        },
-        {
-          "text": "boring",
-          "rating": "2"
-        }
-      ]
+      "comments": []
     },
     {
       "id": 9,
@@ -290,53 +119,7 @@
       "description": "Apex Legends is a free-to-play battle royale-hero shooter game developed by Respawn Entertainment and published by Electronic Arts. It was released for Microsoft Windows, PlayStation 4, and Xbox One in February 2019, and for Nintendo Switch in March 2021.",
       "popularity": "228,439",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg?t=1638900075",
-      "comments": [
-        {},
-        {
-          "text": "great game",
-          "rating": "4"
-        },
-        {
-          "text": "great",
-          "rating": "4"
-        },
-        {
-          "text": "player be aware",
-          "rating": "4"
-        },
-        {
-          "text": "boring",
-          "rating": "1"
-        },
-        {
-          "text": "boring",
-          "rating": "2"
-        },
-        {
-          "text": "boring3",
-          "rating": "3"
-        },
-        {
-          "text": "KILL",
-          "rating": "2"
-        },
-        {
-          "text": "great",
-          "rating": "222"
-        },
-        {
-          "text": "jhjh",
-          "rating": "2"
-        },
-        {
-          "text": "jhjh",
-          "rating": "2"
-        },
-        {
-          "text": "great",
-          "rating": "111111"
-        }
-      ]
+      "comments": []
     }
   ]
 }
