@@ -42,12 +42,9 @@ const CommentForm = ({game, setGame}) => {
     }
 
 
-    
-
     return (
         <div>
             <form onSubmit={handleSubmit}>
-                <label>Text</label>
                 <input type="text" value={comment.text} onChange={handleChange} name="text"required/><br/>
                 <label>Rating(1-5)</label>
                 <input type="number" value={comment.rating} min="1" max="5" onChange={handleChange} name="rating"required/><br/>
